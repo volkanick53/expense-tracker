@@ -14,7 +14,7 @@
         type="text"
         id="amount"
         v-model="amount"
-        placeholder="Enter amount..."
+        placeholder="Enter amount...(e.g -400 or 400)"
       />
     </div>
     <button class="btn">Add transaction</button>
