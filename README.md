@@ -1,6 +1,6 @@
 # vue-expense-tracker
 
-Simple project for learning vue
+This project is a simple expense tracker application built using the Vue.js Composition API. Working on this app has helped me learn and understand the Composition API better.
 
 ## Recommended IDE Setup
 
